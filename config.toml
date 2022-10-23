@@ -1,13 +1,13 @@
 baseURL = "/hugo-theme-serial-programmer/"
 languageCode = "en-us"
-title = "Hugo Serial Programmer"
+title = "brownbear29"
 rssLimit = 20
-copyright = "2021 Janne Kemppainen All rights reserved"
+copyright = "2022 brownbear29"
 minify = false
 
 [Author]
-  name = "sharadcodes"
-  email = "me@example.com"
+  name = "brownbear29"
+  email = ""
 
 [permalinks]
   posts = "/:year/:month/:day/:filename"
