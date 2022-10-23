@@ -1,4 +1,4 @@
-baseURL = "/hugo-theme-serial-programmer/"
+baseURL = "/"
 languageCode = "en-us"
 title = "brownbear29.art"
 rssLimit = 20
