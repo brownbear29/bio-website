@@ -1,7 +1,7 @@
 ---
-title: Hugo Markdown
-date: 2021-11-04
-tags: ["hugo"]
+title: Page Title
+date: 2022-10-23
+tags: ["tag_name"]
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
