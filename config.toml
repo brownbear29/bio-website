@@ -4,6 +4,7 @@ title = "brownbear29.art"
 rssLimit = 20
 copyright = "2022 brownbear29"
 minify = false
+theme = ["your-main-theme", "hugo-shortcode-gallery"]
 
 [Author]
   name = "brownbear29"
