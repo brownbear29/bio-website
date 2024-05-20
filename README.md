@@ -23,9 +23,7 @@ Hello everyone, If you have used this theme and if it has helped you in any way 
 
 You can use the sponsor button at the top or on the right. 
 
-[Github Sponsor Page](https://github.com/sponsors/sharadcodes)
-
-# Screenshots
+### [Github Sponsor Page](https://github.com/sponsors/sharadcodes)
 
 ## PC BLOG PAGE
 
